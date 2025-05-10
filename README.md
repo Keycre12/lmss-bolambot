@@ -1,13 +1,13 @@
-# lmss-bolambot
+Project Name: Library Inventory System
 
-Project name: Library Inventory System
-
-1.List of features:
+1. List of Features:
 1.1 Authentication
-1.2Register
+1.2 Register
 1.2.1 Assign Role on Register (Admin/Staff)
+
 1.3 Set Account
-1.3.1 Set User Acc (Active, Pending)
+1.3.1 Set User Account (Active, Pending)
+
 1.4 Login
 1.5 Logout
 2. User's Management (Admin)
@@ -30,8 +30,8 @@ Project name: Library Inventory System
 4.4 Assign Role to User (Admin, Staff)
 5. User's Page
 5.1 View and Update Personal
-5.2 View Borrowed, Damage, Available Books
-6.User Status
+5.2 View Borrowed, Damaged, Available Books
+6. User Status
 6.1 Add User Status
 6.2 View User Status
 6.3 Update User Status
